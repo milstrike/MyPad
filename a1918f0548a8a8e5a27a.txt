@@ -1,0 +1,14 @@
+Welcome to MyPad!
+
+MyPad is a lightweight and intuitive text editor designed for simplicity and productivity.  
+Use the panel on the left to manage your notes, and the editor on the right to write and save your thoughts.  
+
+- Click "New Notes" to create a new entry  
+- Select any note to view or edit it  
+- Use "Save" to keep your work  
+- "Print" your notes instantly  
+- "Delete" removes notes from both the app and your disk
+
+Your notes are automatically organized and stored safely in your local system.
+
+Thank you for using MyPad — crafted with care by Muhammad Irfan Luthfi.

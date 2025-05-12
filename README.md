@@ -43,7 +43,7 @@ The purpose of MyPad is to:
 4. Select the folder and click **Open Project**.
 5. Press `F6` or choose `Run > Run Project` to start the app.
 
-📁 Ensure that `me.png` is placed in the same directory as your `.java` files to display your photo in the About dialog.
+📁 Ensure that `me.png` and `notes_db.csv` are placed in the project's root.
 
 ---
 
@@ -54,7 +54,7 @@ This project is licensed under the **MIT License**:
 ```
 MIT License
 
-Copyright (c) 2024 Muhammad Irfan Luthfi
+Copyright (c) 2025 Muhammad Irfan Luthfi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

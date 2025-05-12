@@ -1,9 +1,10 @@
 # MyPad
 
-[![Java](https://img.shields.io/badge/Java-17%2B-blue.svg)](https://www.java.com)
+[![Java](https://img.shields.io/badge/built%20with-Java-orange.svg)](https://www.java.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Cross--Platform-lightgrey.svg)]()
-[![Build](https://img.shields.io/badge/Built%20With-NetBeans-orange.svg)](https://netbeans.apache.org)
+[![NetBeans](https://img.shields.io/badge/IDE-NetBeans-green.svg)](https://netbeans.apache.org)
+
 
 MyPad is a lightweight, clean, and fully functional note editor developed using Java Swing. It features a two-pane interface for managing notes stored locally as text files, with metadata stored in a simple CSV database.
 
